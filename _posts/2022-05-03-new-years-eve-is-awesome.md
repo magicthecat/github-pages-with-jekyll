@@ -1,2 +1,4 @@
-This is the 3rd of May blog.
-
+---
+title: "New Year is Awesome"
+date: 2022-05-03
+---
